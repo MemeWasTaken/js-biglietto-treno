@@ -8,3 +8,6 @@ va applicato uno sconto del 20% per i minorenni
 va applicato uno sconto del 40% per gli over 65.
 L’output del prezzo finale va messo fuori in forma umana (con massimo due decimali, per indicare centesimi sul prezzo).
 Finito l’esercizio base, cercate di capire se potete semplificarlo.
+
+BONUS
+potete fare in modo che il programma controlli se l'utente ha inserito qualcosa nel prompt o meno. Se avete altre idee come bonus siete liberi di aggiungerle!
